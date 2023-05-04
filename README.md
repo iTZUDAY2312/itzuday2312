@@ -14,7 +14,7 @@ Hello, I'm Uday
 <br>
 
 
-[![Github stats](https://readmestats.999857.xyz/api?username=itzuday2312&include_all_commits=true&theme=github_dark)](https://github.com/itzuday2312)
+![Uday's GitHub stats](https://github-readme-stats.vercel.app/api?username=iTZUDAY2312&count_private=true&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itzuday2312&card_width=495&theme=github_dark)
 
